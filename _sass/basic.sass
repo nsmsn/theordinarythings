@@ -26,6 +26,10 @@ h4, h5, h6
   text-transform: uppercase
   letter-spacing: 2px
 
+@media (min-width: 80em)
+  body
+    font-size: 115%
+
 b, strong, th
   font-weight: $font-weight + 200
 
@@ -41,6 +45,9 @@ a
 header a, footer a, aside a
   color: inherit
   text-decoration: none
+
+header a:hover
+  color: #efb652
 
 header time
   color: reduce(100)

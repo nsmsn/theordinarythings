@@ -1,0 +1,38 @@
+---
+title: "About"
+permalink: "/about/"
+layout: page
+---
+
+<p>
+  The Ordinary Things were formed in Albuquerque in 2018, consectetur adipiscing
+  elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed
+  libero enim sed faucibus turpis in eu. Congue nisi vitae suscipit tellus
+  mauris a diam. Mi in nulla posuere sollicitudin aliquam. Tincidunt tortor
+  aliquam nulla facilisi cras fermentum odio eu. Proin libero nunc consequat
+  interdum varius sit amet mattis vulputate.
+</p>
+
+<p>&nbsp;</p>
+
+{% for bio in site.bios %}
+<div class="row">
+  <div class="grid-fourth">
+    <img
+      src="/img/{{ bio.image_file }}"
+      alt="{{ bio.name }}"
+      width="140"
+      height="140"
+    />
+  </div>
+  <div class="grid-three-fourths">
+    <h2>
+      {{ bio.name }}<br />
+      <span class="bio-role">{{ bio.role }}</span>
+    </h2>
+    <p>{{ bio.content }}</p>
+    <p>&nbsp;</p>
+  </div>
+</div>
+
+{% endfor %}

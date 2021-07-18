@@ -1,0 +1,66 @@
+title: "The Ordinary Things"
+author: "Jackie"
+description: "© 2021 The Ordinary Things"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: true # show article excerpts on the home page
+show_frame: false # adds a gray frame to the site
+show_sidebar: false # show a sidebar instead of the usual header
+minimal: true # use a dark header
+
+# Menu
+
+navigation: # accepts {file, title, url, icon, sidebaricon}
+  - { file: "about.html" }
+  - { file: "music.html" }
+  - { file: "video.html" }
+  - { file: "shows.html" }
+  - {
+      url: "https://theordinarythings.bandcamp.com/merch",
+      title: "Merch&rarr;",
+    }
+
+external: # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {
+      title: Facebook,
+      icon: facebook,
+      url: "https://www.facebook.com/TheOrdinaryThingsband/",
+    }
+  - {
+      title: Instagram,
+      icon: instagram,
+      url: "https://www.instagram.com/ordinarythingsband18/",
+    }
+  - {
+      title: Twitter,
+      icon: twitter,
+      url: "https://twitter.com/theordinarythi2?lang=en",
+    }
+  - {
+      title: YouTube,
+      icon: youtube,
+      url: "https://www.youtube.com/channel/UCLIVmEj9o8LI3zCdQ8S3c6Q",
+    }
+  - {
+      title: BandCamp,
+      icon: bandcamp,
+      url: "https://theordinarythings.bandcamp.com/",
+    }
+
+collections:
+  music:
+  video:
+  bios:
+  shows:
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+  - jekyll-feed

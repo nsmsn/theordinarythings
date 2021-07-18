@@ -11,6 +11,7 @@
 
 .more a
   border-radius: 2px
+  text-decoration: none
   border: 1.5px solid $link-color
   padding: .4em .8em
   transition: .2s background, .2s color
@@ -19,6 +20,13 @@
   color: #fff
   background: $link-color
   text-decoration: inherit
+
+@media (prefers-color-scheme: dark)
+  .more a
+    border: 1.5px solid #e99708
+  .more a:hover
+    color: #000
+    background: #e99708
 
 .archive
   font-size: 1.1em
@@ -60,6 +68,10 @@ a:hover .icon
     margin: 0 1.5em 0 .25em
     opacity: .5
 
+p.lead
+  font-size: 1.125em
+  max-width: 60ch
+
 .embed-container
   position: relative
   padding-bottom: 56.25%
@@ -75,10 +87,16 @@ a:hover .icon
   height: 100%
 
 .music-type
+  text-transform: uppercase
+  letter-spacing: 1px
   color: reduce(100)
 
 .bio-role
   color: reduce(100)
+
+.ttu
+  text-transform: uppercase
+  letter-spacing: 1px
 
 .highlight // https://github.com/richleland/pygments-css/blob/master/monokai.css <http://unlicense.org>
   pre

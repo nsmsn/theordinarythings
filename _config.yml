@@ -16,10 +16,10 @@ minimal: true # use a dark header
 # Menu
 
 navigation: # accepts {file, title, url, icon, sidebaricon}
-  - { file: "about.html" }
-  - { file: "music.html" }
-  - { file: "video.html" }
-  - { file: "shows.html" }
+  - { file: "about.md" }
+  - { file: "music.md" }
+  - { file: "video.md" }
+  - { file: "shows.md" }
   - {
       url: "https://theordinarythings.bandcamp.com/merch",
       title: "Merch&rarr;",

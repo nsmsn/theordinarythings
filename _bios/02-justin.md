@@ -1,4 +1,5 @@
 ---
+title: 02 Justin
 name: Justin McLauchlin
 role: Bass, Synths, Vocals
 image_path: https://nsmsn.github.io/theordinarythings/img/justin-profile.png

@@ -1,66 +1,61 @@
-title: "The Ordinary Things"
-author: "Jackie"
-description: "© 2021 The Ordinary Things"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true # show article excerpts on the home page
-show_frame: false # adds a gray frame to the site
-show_sidebar: false # show a sidebar instead of the usual header
-minimal: true # use a dark header
-
-# Menu
-
-navigation: # accepts {file, title, url, icon, sidebaricon}
-  - { file: "about.md" }
-  - { file: "music.md" }
-  - { file: "video.md" }
-  - { file: "shows.md" }
-  - {
-      url: "https://theordinarythings.bandcamp.com/merch",
-      title: "Merch&rarr;",
-    }
-
-external: # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {
-      title: Facebook,
-      icon: facebook,
-      url: "https://www.facebook.com/TheOrdinaryThingsband/",
-    }
-  - {
-      title: Instagram,
-      icon: instagram,
-      url: "https://www.instagram.com/ordinarythingsband18/",
-    }
-  - {
-      title: Twitter,
-      icon: twitter,
-      url: "https://twitter.com/theordinarythi2?lang=en",
-    }
-  - {
-      title: YouTube,
-      icon: youtube,
-      url: "https://www.youtube.com/channel/UCLIVmEj9o8LI3zCdQ8S3c6Q",
-    }
-  - {
-      title: BandCamp,
-      icon: bandcamp,
-      url: "https://theordinarythings.bandcamp.com/",
-    }
-
+---
+title: The Ordinary Things
+timezone: UTC
 collections:
-  music:
-  video:
   bios:
+    title: Bios
+    output: false
+  music:
+    title: Music
+    output: false
+  posts:
+    title: Posts
+    output: true
   shows:
+    title: Shows
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+  video:
+    title: Video
+    output: false
+author: Jackie
+description: "© 2021 The Ordinary Things"
+permalink: "/:title/"
+lang: en
+excerpt_separator: |2+
 
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
 
+
+date_format: "%B %d, %Y"
+show_excerpts: true
+show_frame: false
+show_sidebar: false
+minimal: true
+navigation:
+- file: about.md
+- file: music.md
+- file: video.md
+- file: shows.md
+- url: https://theordinarythings.bandcamp.com/merch
+  title: Merch&rarr;
+external:
+- title: Facebook
+  icon: facebook
+  url: https://www.facebook.com/TheOrdinaryThingsband/
+- title: Instagram
+  icon: instagram
+  url: https://www.instagram.com/ordinarythingsband18/
+- title: Twitter
+  icon: twitter
+  url: https://twitter.com/theordinarythi2?lang=en
+- title: YouTube
+  icon: youtube
+  url: https://www.youtube.com/channel/UCLIVmEj9o8LI3zCdQ8S3c6Q
+- title: BandCamp
+  icon: bandcamp
+  url: https://theordinarythings.bandcamp.com/
+comments: 
 plugins:
-  - jekyll-feed
+- jekyll-feed

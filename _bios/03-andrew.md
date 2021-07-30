@@ -1,4 +1,5 @@
 ---
+title: 03 Andrew
 name: Andrew Chacon
 role: Guitar
 image_path: https://nsmsn.github.io/theordinarythings/img/andrew-profile.png

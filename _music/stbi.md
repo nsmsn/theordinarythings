@@ -1,9 +1,9 @@
 ---
 title: Something to Believe In
+date: 2021-02-26 00:00:00 Z
 type: Album
 image_path: https://f4.bcbits.com/img/a3413105839_10.jpg
 link: https://theordinarythings.bandcamp.com/album/something-to-believe-in
-date: 2021-02-26
 ---
 
 1. I'll Be Leaving

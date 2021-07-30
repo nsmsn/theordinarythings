@@ -1,5 +1,5 @@
 ---
-title: "Music"
+title: Music
 permalink: "/music/"
 layout: page
 ---

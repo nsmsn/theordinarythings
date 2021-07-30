@@ -1,5 +1,5 @@
 ---
-title: "Shows"
+title: Shows
 permalink: "/shows/"
 layout: page
 ---

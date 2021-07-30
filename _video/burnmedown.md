@@ -1,7 +1,7 @@
 ---
 title: Burn Me Down
+date: 2020-10-17 00:00:00 Z
 link: https://www.youtube.com/embed/D8hZJkT94Zc
-date: 2020-10-17
 ---
 
 Filmed and edited by Chris Walsh

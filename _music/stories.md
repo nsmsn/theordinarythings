@@ -1,9 +1,9 @@
 ---
 title: Stories
+date: 2019-12-06 00:00:00 Z
 type: Album
 image_path: https://f4.bcbits.com/img/a1074381298_10.jpg
 link: https://theordinarythings.bandcamp.com/album/stories
-date: 2019-12-06
 ---
 
 1. Stories

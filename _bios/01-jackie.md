@@ -1,4 +1,5 @@
 ---
+title: 01 Jackie
 name: Jacqueline Chacon
 role: Drums, Vocals
 image_path: https://nsmsn.github.io/theordinarythings/img/jackie-profile.png

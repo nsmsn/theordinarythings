@@ -1,9 +1,9 @@
 ---
 title: Doom
+date: 2021-07-30 00:00:00 Z
 type: EP
 image_path: https://f4.bcbits.com/img/a1672345353_16.jpg
 link: https://theordinarythings.bandcamp.com/album/doom-ep
-date: 2021-07-30
 ---
 
 1. Empty

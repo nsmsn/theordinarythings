@@ -1,7 +1,7 @@
 ---
 title: Crimson
+date: 2020-08-24 00:00:00 Z
 link: https://www.youtube.com/embed/MeRMrfSOzYE
-date: 2020-08-24
 ---
 
 Audio recorded and mixed by Carlos Martinez

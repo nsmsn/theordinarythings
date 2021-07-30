@@ -12,5 +12,6 @@ date: 2021-07-30
 4. Green Girl
 
 Music and Lyrics by The Ordinary Things.
+Artwork by Daniel Porta
 
 Released July 30, 2021

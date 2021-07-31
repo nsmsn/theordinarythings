@@ -22,7 +22,7 @@ layout: default
     of the ordinary, but beautiful things experienced in day-to-day&nbsp;life.
   </p>
 
-  <p><a href="/theordinarythings/about/">Learn more about the band</a></p>
+  <p><a href="/about/">Learn more about the band</a></p>
 
   <p>&nbsp;</p>
 

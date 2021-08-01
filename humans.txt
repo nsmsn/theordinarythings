@@ -1,0 +1,19 @@
+# TheOrdinaryThings.com
+
+# THE BAND
+    Jacqueline Chacon: Drums, Vocals 
+    Justin McLauchlin: Bass, Synths, Vocals 
+    Andrew Chacon: Guitar
+
+# DESIGN & DEV
+    Nick Simson (nicksimson.com)
+
+# TECHNOLOGY
+    HTML and CSS. 
+    Built with Jekyll, GitHub Pages and Siteleaf.
+
+# THANK YOUS
+    Niklas Buschmann
+    Chris Ferdinandi
+    Jan Maack (theivyfoundry.com)
+    All the friends and fans of The Ordinary Things

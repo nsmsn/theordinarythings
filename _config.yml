@@ -1,10 +1,61 @@
 ---
 title: The Ordinary Things
-timezone: America/Denver
+timezone: UTC
 collections:
+  bios:
+    title: Bios
+    output: false
+  music:
+    title: Music
+    output: false
   posts:
     title: Posts
     output: true
+  shows:
+    title: Shows
+    output: false
   uploads:
     title: Uploads
     output: true
+  video:
+    title: Video
+    output: false
+author: Jackie
+description: "© 2021 The Ordinary Things"
+permalink: "/:title/"
+lang: en
+excerpt_separator: |2+
+
+
+
+date_format: "%B %d, %Y"
+show_excerpts: true
+show_frame: false
+show_sidebar: false
+minimal: true
+navigation:
+- file: about.md
+- file: music.md
+- file: video.md
+- file: shows.md
+- url: https://theordinarythings.bandcamp.com/merch
+  title: Merch&rarr;
+external:
+- title: Facebook
+  icon: facebook
+  url: https://www.facebook.com/TheOrdinaryThingsband/
+- title: Instagram
+  icon: instagram
+  url: https://www.instagram.com/ordinarythingsband18/
+- title: Twitter
+  icon: twitter
+  url: https://twitter.com/theordinarythi2?lang=en
+- title: YouTube
+  icon: youtube
+  url: https://www.youtube.com/channel/UCLIVmEj9o8LI3zCdQ8S3c6Q
+- title: BandCamp
+  icon: bandcamp
+  url: https://theordinarythings.bandcamp.com/
+comments: 
+plugins:
+- jekyll-feed

@@ -1,5 +1,7 @@
 ---
 title: 03 Andrew
+date: 2021-08-01 19:34:00 Z
+published: false
 name: Andrew Chacon
 role: Guitar
 image_path: https://nsmsn.github.io/theordinarythings/img/andrew-profile.png

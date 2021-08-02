@@ -12,7 +12,7 @@ layout: default
   </header>
   <img
     class="askew"
-    src="img/tot-band-bw.jpg"
+    src="https://theordinarythings.com/img/tot-band-bw.jpg"
     alt="Justin, Jackie and Andrew"
   />
   <p class="lead">

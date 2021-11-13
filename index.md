@@ -27,7 +27,7 @@ layout: default
   <p>&nbsp;</p>
 
   <h2>Latest Release</h2>
-  <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1451140335/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://theordinarythings.bandcamp.com/album/doom-ep">Doom EP by The Ordinary Things</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=190866596/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://theordinarythings.bandcamp.com/album/big-machine">Big Machine by The Ordinary Things</a></iframe>
 
   <hr />
 

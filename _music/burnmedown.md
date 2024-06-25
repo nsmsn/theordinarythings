@@ -8,8 +8,6 @@ link: https://theordinarythings.bandcamp.com/track/burn-me-down
 
 Released October 17, 2020
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=771593907/size=small/bgcol=333333/linkcol=e99708/artwork=none/transparent=true/" seamless><a href="https://theordinarythings.bandcamp.com/track/burn-me-down">Burn Me Down by The Ordinary Things</a></iframe>
-
 Track recorded and produced at Empty House Studio with Matthew Tobias
 
 Artwork by Daniel Porta

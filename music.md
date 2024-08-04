@@ -17,30 +17,30 @@ layout: page
         height="320"
     /></a>
     <p>
-      <a href="https://music.apple.com/us/album/iv/1759902825" class="more"
-        >Apple Music &rarr;</a
-      ></br>
+      <a href="https://music.apple.com/us/album/iv/1759902825" class="more">Apple Music &rarr;</a><br>
       <a href="https://open.spotify.com/album/41KH3qwfnbo7RDEaPNuWvN?si=ao6_7ULJQIKP6QXWwbul0Q" class="more"
         >Spotify &rarr;</a
-      ></br>
+      ><br>
     </p>
   </div>
   <div class="grid-half">
-1. Illuminate
-2. Live in Love
-3. Heaven 1
-4. Take My Life
-5. Heaven 2
-6. It's Time
-7. Heaven 3
-8. Lost My Life
-9. Hear
-10. 1,000 Years
-11. Shadows Fall
+<ol>
+<li>Illuminate</li>
+<li>Live in Love</li>
+<li>Heaven 1</li>
+<li>Take My Life</li>
+<li>Heaven 2</li>
+<li>It's Time</li>
+<li>Heaven 3</li>
+<li>Lost My Life</li>
+<li>Hear</li>
+<li>1,000 Years</li>
+<li>Shadows Fall</li>
+</ol>
 
-Released August 1, 2024
+<p>Released August 1, 2024</p>
 
-Music and Lyrics by The Ordinary Things
+<p>Music and Lyrics by The Ordinary Things</p>
 </div>
 </div>
 <hr />

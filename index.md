@@ -27,7 +27,7 @@ layout: default
   <p>&nbsp;</p>
 
   <h2>Latest Release</h2>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1123232144/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://theordinarythings.bandcamp.com/track/live-in-love">Live in Love by The Ordinary Things</a></iframe>
+<p>The new album "IV" is available to stream on <a href="https://music.apple.com/us/album/iv/1759902825">Apple Music</a> and <a href="https://open.spotify.com/album/41KH3qwfnbo7RDEaPNuWvN?si=ao6_7ULJQIKP6QXWwbul0Q">Spotify</a>.</p>
 
   <hr />
 

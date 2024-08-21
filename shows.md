@@ -20,7 +20,7 @@ Part of an Epic Lineup: 6pm - 2am<br/>
 <p>with Glorious Future<br/>
 Nob Hill Stage<br/>
 3619 Copper Ave NE Albuquerque NM<br/>
-\$5 Cover/Donation<br/>
+$5 Cover/Donation<br/>
 6:30 - 9pm</p>
 
 ---

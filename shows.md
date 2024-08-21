@@ -27,7 +27,7 @@ $5 Cover/Donation<br/>
 
 ## November 2, 2024
 
-<p>Opening for Radio Free ABQ<br/>
+<p>opening for Radio Free ABQ<br/>
 Nob Hill Stage<br/>
 3619 Copper Ave NE Albuquerque NM<br/>
 6 - 9pm</p>

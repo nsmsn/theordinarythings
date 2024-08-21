@@ -9,7 +9,7 @@ layout: page
 
 <p>Launchpad "27 Club" Birthday Bash Night 2<br/>
 618 Central Ave SW Albuquerque NM<br/>
-Part of an Epic Lineup - 6pm - 2am<br/>
+Part of an Epic Lineup: 6pm - 2am<br/>
 21+ $10 Door Tickets<br/>
 <a href="https://launchpadrocks.com/event/435237">Website</a></p>
 

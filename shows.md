@@ -1,5 +1,6 @@
 ---
 title: Shows
+date: 2024-08-20 14:03:00 -06:00
 permalink: "/shows/"
 layout: page
 ---

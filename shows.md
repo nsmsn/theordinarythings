@@ -5,16 +5,6 @@ permalink: "/shows/"
 layout: page
 ---
 
-## August 24, 2024
-
-<p>Launchpad "27 Club" Birthday Bash Night 2<br/>
-618 Central Ave SW Albuquerque NM<br/>
-Part of an Epic Lineup: 6pm - 2am<br/>
-21+ $10 Door Tickets<br/>
-<a href="https://launchpadrocks.com/event/435237">Website</a></p>
-
----
-
 ## August 30, 2024
 
 <p>with Glorious Future<br/>
@@ -31,3 +21,17 @@ $5 Cover/Donation<br/>
 Nob Hill Stage<br/>
 3619 Copper Ave NE Albuquerque NM<br/>
 6 - 9pm</p>
+
+---
+
+## Some Previous Shows
+
+8/24 - Launchpad (ABQ, NM)
+
+8/1 - Inside Out (ABQ, NM)
+
+7/26 - The Mystic (Santa Fe, NM)
+
+7/6 - Voodoo Girl (ABQ, NM)
+
+7/5 - El Vado Motel (ABQ, NM)

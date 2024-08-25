@@ -17,6 +17,7 @@ layout: page
         height="320"
     /></a>
     <p>
+      <a href="https://theordinarythings.bandcamp.com/album/iv" class="more">Bandcamp &rarr;</a><br>
       <a href="https://music.apple.com/us/album/iv/1759902825" class="more">Apple Music &rarr;</a><br>
       <a href="https://open.spotify.com/album/41KH3qwfnbo7RDEaPNuWvN?si=ao6_7ULJQIKP6QXWwbul0Q" class="more"
         >Spotify &rarr;</a

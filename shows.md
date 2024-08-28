@@ -11,7 +11,15 @@ layout: page
 Nob Hill Stage<br/>
 3619 Copper Ave NE Albuquerque NM<br/>
 $5 Cover/Donation<br/>
-6:30 - 9pm</p>
+6:30 – 9pm</p>
+
+---
+
+## August 31, 2024
+
+<p>Voodoo Girl Pizza and Pints<br/>
+1401 2nd St NW Albuquerque NM<br/>
+7 – 10pm</p>
 
 ---
 
@@ -20,7 +28,7 @@ $5 Cover/Donation<br/>
 <p>opening for Radio Free ABQ<br/>
 Nob Hill Stage<br/>
 3619 Copper Ave NE Albuquerque NM<br/>
-6 - 9pm</p>
+6 – 9pm</p>
 
 ---
 

@@ -5,6 +5,15 @@ permalink: "/shows/"
 layout: page
 ---
 
+## September 14, 2024
+
+<p>Tin Can Alley<br/>
+6110 Alameda Blvd. NE Albuquerque, NM<br/>
+9 – 11pm<br>
+<a href="https://www.facebook.com/events/411354061969109/">Facebook Event Page</a></p>
+
+---
+
 ## November 2, 2024
 
 <p>opening for Radio Free ABQ<br/>

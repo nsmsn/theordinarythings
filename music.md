@@ -41,7 +41,8 @@ layout: page
 
 <p>Released August 1, 2024</p>
 
-<p>Music and Lyrics by The Ordinary Things</p>
+<p>Music and Lyrics by The Ordinary Things<br>
+Artwork by Daniel Porta</p>
 </div>
 </div>
 <hr />

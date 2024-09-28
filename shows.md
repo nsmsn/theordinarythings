@@ -9,7 +9,7 @@ layout: page
 
 <p>with My Blue Heart and Almost Always Never<br/>
 <a href="https://junopub.com/">Juno Brewery</a><br/>
-1501 1st St NW Albuquerque Albuquerque NM<br/>
+1501 1st St NW Albuquerque NM<br/>
 3pm - $10</p>
 
 ---

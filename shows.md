@@ -10,7 +10,7 @@ layout: page
 <p>as Electric Light Orchestra (ELO) for <a href="https://launchpadrocks.com/event/422752">Night of the Living Cover Bands</a><br/>
 <a href="https://launchpadrocks.com/">Launchpad</a><br/>
 618 Central Ave SW Albuquerque NM<br/>
-6pm 21+ <a href="https://launchpadrocks.com/event/422752">Buy tickets</a></p>
+6pm - 2am | 21+ | <a href="https://launchpadrocks.com/event/422752">Buy tickets</a></p>
 
 ---
 

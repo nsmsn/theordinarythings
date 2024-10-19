@@ -5,15 +5,6 @@ permalink: "/shows/"
 layout: page
 ---
 
-## October 18, 2024
-
-<p>as Electric Light Orchestra (ELO) for <a href="https://launchpadrocks.com/event/422752">Night of the Living Cover Bands</a><br/>
-<a href="https://launchpadrocks.com/">Launchpad</a><br/>
-618 Central Ave SW Albuquerque NM<br/>
-6pm - 2am | 21+ | <a href="https://launchpadrocks.com/event/422752">Buy tickets</a></p>
-
----
-
 ## October 20, 2024
 
 <p>with My Blue Heart and Almost Always Never<br/>
@@ -33,6 +24,8 @@ Nob Hill Stage<br/>
 ---
 
 ## Some Previous Shows
+
+10/18 – Launchpad (ABQ, NM)
 
 9/14 – Tin Can Alley (ABQ, NM)
 

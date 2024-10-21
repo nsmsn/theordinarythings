@@ -5,15 +5,6 @@ permalink: "/shows/"
 layout: page
 ---
 
-## October 20, 2024
-
-<p>with My Blue Heart and Almost Always Never<br/>
-<a href="https://junopub.com/">Juno Brewery</a><br/>
-1501 1st St NW Albuquerque NM<br/>
-3pm - $10</p>
-
----
-
 ## November 2, 2024
 
 <p>opening for Radio Free ABQ<br/>
@@ -24,6 +15,8 @@ Nob Hill Stage<br/>
 ---
 
 ## Some Previous Shows
+
+10/20 – Juno Brewery (ABQ, NM)
 
 10/18 – Launchpad (ABQ, NM)
 

@@ -5,12 +5,7 @@ permalink: "/shows/"
 layout: page
 ---
 
-## November 2, 2024
-
-<p>opening for Radio Free ABQ<br/>
-Nob Hill Stage<br/>
-3619 Copper Ave NE Albuquerque NM<br/>
-6 – 9pm</p>
+Check back here for upcoming shows.
 
 ---
 

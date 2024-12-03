@@ -5,7 +5,10 @@ permalink: "/shows/"
 layout: page
 ---
 
-Check back here for upcoming shows.
+## Saturday, December 7, 2024
+[Voodoo Girl Pizza and Pints](https://www.facebook.com/Voodoogirlpizzaofficial)
+1401 2nd St NW Albuquerque, NM 87102
+9 p.m. [Facebook Event](https://www.facebook.com/share/1B1tZij7s3/)
 
 ---
 

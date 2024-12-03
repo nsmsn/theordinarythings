@@ -8,7 +8,7 @@ layout: page
 <span class="music-type">Album</span>
 <div class="row">
   <div class="grid-half">
-    <a href="https://music.apple.com/us/album/iv/1759902825">
+    <a href="https://theordinarythings.bandcamp.com/album/iv">
       <img
         class="hover-askew"
         src="https://d2w9rnfcy7mm78.cloudfront.net/29790651/original_53b0b83161ee0c228c356b56d8d9840f.jpg?1722730956?bc=0"

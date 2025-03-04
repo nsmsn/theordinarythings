@@ -6,13 +6,15 @@ layout: page
 ---
 
 ## Tuesday, March 11
-Opening for Wand at Launchpad
-618 Central Ave SW Albuquerque, NM
+Opening for Wand at Launchpad <br>
+618 Central Ave SW Albuquerque, NM <br>
 8pm  $15
 
+&nbsp;
+
 ## Friday, March 14
-Voodoo Girl Pies & Pints
-1401 2nd St NW Albuquerque
+Voodoo Girl Pies & Pints <br>
+1401 2nd St NW Albuquerque <br>
 9pm
 
 ---

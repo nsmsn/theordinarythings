@@ -5,7 +5,15 @@ permalink: "/shows/"
 layout: page
 ---
 
-Keep an eye on this page and social media for upcoming shows.
+## Tuesday, March 11
+Opening for Wand at Launchpad
+618 Central Ave SW Albuquerque, NM
+8pm  $15
+
+## Friday, March 14
+Voodoo Girl Pies & Pints
+1401 2nd St NW Albuquerque
+9pm
 
 ---
 

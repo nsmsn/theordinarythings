@@ -5,13 +5,6 @@ permalink: "/shows/"
 layout: page
 ---
 
-## Tuesday, March 11
-Opening for Wand at Launchpad <br>
-618 Central Ave SW Albuquerque, NM <br>
-8pm  $15
-
-&nbsp;
-
 ## Friday, March 14
 Voodoo Girl Pies & Pints <br>
 1401 2nd St NW Albuquerque <br>
@@ -21,6 +14,8 @@ Voodoo Girl Pies & Pints <br>
 
 ## Some Previous Shows
 
+3/11 – Launchpad (opened for Wand)
+
 12/7 – Voodoo Girl (ABQ, NM)
 
 10/20 – Juno Brewery (ABQ, NM)
@@ -28,20 +23,6 @@ Voodoo Girl Pies & Pints <br>
 10/18 – Launchpad (ABQ, NM)
 
 9/14 – Tin Can Alley (ABQ, NM)
-
-8/31 – Voodoo Girl (ABQ, NM)
-
-8/30 – Nob Hill Stage (with The Glorious Future)
-
-8/24 – Launchpad (ABQ, NM)
-
-8/1 – Inside Out (ABQ, NM)
-
-7/26 – The Mystic (Santa Fe, NM)
-
-7/6 – Voodoo Girl (ABQ, NM)
-
-7/5 – El Vado Motel (ABQ, NM)
 
 ---
 

@@ -5,14 +5,13 @@ permalink: "/shows/"
 layout: page
 ---
 
-## Friday, March 14
-Voodoo Girl Pies & Pints <br>
-1401 2nd St NW Albuquerque <br>
-9pm
+Check back soon for upcoming shows. ✌️
 
 ---
 
 ## Some Previous Shows
+
+3/14 – Voodoo Girl (ABQ, NM)
 
 3/11 – Launchpad (opened for Wand)
 

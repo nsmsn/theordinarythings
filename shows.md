@@ -5,7 +5,10 @@ permalink: "/shows/"
 layout: page
 ---
 
-Check back soon for upcoming shows. ✌️
+## Saturday, June 14
+The Heights Summerfest<br/>
+North Domingo Baca Park (ABQ, NM)<br/>
+5pm
 
 ---
 

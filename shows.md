@@ -5,23 +5,20 @@ permalink: "/shows/"
 layout: page
 ---
 
-Check back soon for upcoming shows. ✌️
+## Saturday, June 14
+The Heights Summerfest<br/>
+North Domingo Baca Park (ABQ, NM)<br/>
+5pm
 
 ---
 
 ## Some Previous Shows
 
+4/18 - Marble Brewery (ABQ, NM)
+
 3/14 – Voodoo Girl (ABQ, NM)
 
 3/11 – Launchpad (opened for Wand)
-
-12/7 – Voodoo Girl (ABQ, NM)
-
-10/20 – Juno Brewery (ABQ, NM)
-
-10/18 – Launchpad (ABQ, NM)
-
-9/14 – Tin Can Alley (ABQ, NM)
 
 ---
 

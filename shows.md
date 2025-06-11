@@ -14,6 +14,8 @@ North Domingo Baca Park (ABQ, NM)<br/>
 
 ## Some Previous Shows
 
+4/18 - Marble Brewery (ABQ, NM)
+
 3/14 – Voodoo Girl (ABQ, NM)
 
 3/11 – Launchpad (opened for Wand)

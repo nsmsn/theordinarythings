@@ -5,14 +5,13 @@ permalink: "/shows/"
 layout: page
 ---
 
-## Saturday, June 14
-The Heights Summerfest<br/>
-North Domingo Baca Park (ABQ, NM)<br/>
-5pm
+Check back soon for more shows and dates. ✌️
 
 ---
 
 ## Some Previous Shows
+
+6/14 - The Heights Summerfest (ABQ, NM) 
 
 4/18 - Marble Brewery (ABQ, NM)
 

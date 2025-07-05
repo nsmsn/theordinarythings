@@ -5,7 +5,11 @@ permalink: "/shows/"
 layout: page
 ---
 
-Check back soon for more shows and dates. ✌️
+## Friday, July 18
+El Vado (2500 Central SW, Albuquerque) <br/>
+6:00 - 8:30 pm
+
+<!--Check back soon for more shows and dates. ✌️-->
 
 ---
 

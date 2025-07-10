@@ -5,9 +5,18 @@ permalink: "/shows/"
 layout: page
 ---
 
+## Saturday, July 12
+Tin Can Alley (6110 Alameda Blvd NE, Albuquerque) <br/>
+6:30 - 9:30 pm
+
 ## Friday, July 18
 El Vado (2500 Central SW, Albuquerque) <br/>
 6:00 - 8:30 pm
+
+## Thursday, July 24
+(supporting Dymer album release show w/ Red Light Cameras)<br/>
+Sister Bar (407 Central Ave NW, Albuquerque)<br/>
+7:00 pm   $10
 
 <!--Check back soon for more shows and dates. ✌️-->
 

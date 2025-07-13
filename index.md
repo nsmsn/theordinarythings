@@ -35,7 +35,7 @@ layout: default
         width="160"
         height="160"
     /></a>
-<p>The new album “IV” is available to stream on <a href="https://music.apple.com/us/album/iv/1759902825">Apple Music</a> and <a href="https://open.spotify.com/album/41KH3qwfnbo7RDEaPNuWvN?si=ao6_7ULJQIKP6QXWwbul0Q">Spotify</a>. <a href="https://theordinarythings.bandcamp.com/album/iv">Purchase on Bandcamp</a>.</p>
+<p>Our 2024 album “IV” is available to stream on <a href="https://music.apple.com/us/album/iv/1759902825">Apple Music</a> and <a href="https://open.spotify.com/album/41KH3qwfnbo7RDEaPNuWvN?si=ao6_7ULJQIKP6QXWwbul0Q">Spotify</a>. <a href="https://theordinarythings.bandcamp.com/album/iv">Purchase on Bandcamp</a>.</p>
 
   <hr />
 

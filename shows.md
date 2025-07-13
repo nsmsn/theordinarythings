@@ -22,6 +22,8 @@ Sister Bar (407 Central Ave NW, Albuquerque)<br/>
 
 ## Some Previous Shows
 
+7/12 - Tin Can Alley (ABQ, NM)
+
 6/14 - The Heights Summerfest (ABQ, NM) 
 
 4/18 - Marble Brewery (ABQ, NM)

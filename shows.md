@@ -5,12 +5,6 @@ permalink: "/shows/"
 layout: page
 ---
 
-## Friday, July 18
-El Vado (2500 Central SW, Albuquerque) <br/>
-6:00 - 8:30 pm
-
----
-
 ## Thursday, July 24
 (supporting Dymer album release show w/ Red Light Cameras)<br/>
 Sister Bar (407 Central Ave NW, Albuquerque)<br/>
@@ -21,6 +15,8 @@ Sister Bar (407 Central Ave NW, Albuquerque)<br/>
 ---
 
 ## Some Previous Shows
+
+7/18 - El Vado (ABQ, NM)
 
 7/12 - Tin Can Alley (ABQ, NM)
 

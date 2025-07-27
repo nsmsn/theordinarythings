@@ -5,16 +5,15 @@ permalink: "/shows/"
 layout: page
 ---
 
-## Thursday, July 24
-(supporting Dymer album release show w/ Red Light Cameras)<br/>
-Sister Bar (407 Central Ave NW, Albuquerque)<br/>
-7:00 pm   $10
-
-<!--Check back soon for more shows and dates. ✌️-->
+Check back soon for more shows and dates. ✌️
 
 ---
 
 ## Some Previous Shows
+
+7/26 - Echoes (ABQ, NM)
+
+7/24 - Sister (ABQ, NM)
 
 7/18 - El Vado (ABQ, NM)
 

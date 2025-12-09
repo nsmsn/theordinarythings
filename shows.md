@@ -5,7 +5,10 @@ permalink: "/shows/"
 layout: page
 ---
 
-Check back soon for more shows and dates. ✌️
+## Friday, Dec. 19
+The Imperial ABQ <br>
+701 Central Ave NE, Albuquerque, NM 87102 <br>
+6 – 9 PM
 
 ---
 

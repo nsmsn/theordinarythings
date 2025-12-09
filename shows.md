@@ -1,6 +1,6 @@
 ---
 title: Shows
-date: 2024-08-20 14:03:00 -06:00
+date: 2025-12-09 14:03:00 -07:00
 permalink: "/shows/"
 layout: page
 ---
@@ -21,14 +21,6 @@ The Imperial ABQ <br>
 7/18 - El Vado (ABQ, NM)
 
 7/12 - Tin Can Alley (ABQ, NM)
-
-6/14 - The Heights Summerfest (ABQ, NM) 
-
-4/18 - Marble Brewery (ABQ, NM)
-
-3/14 – Voodoo Girl (ABQ, NM)
-
-3/11 – Launchpad (opened for Wand)
 
 ---
 

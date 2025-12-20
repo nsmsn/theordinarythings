@@ -12,7 +12,3 @@ layout: page
 ## Some Previous Shows
 
 12/19 - The Imperial (ABQ, NM)
-
----
-
-<p class="lead">Follow us on <a href="https://www.facebook.com/TheOrdinaryThingsband/">Facebook</a> and <a href="https://www.instagram.com/ordinarythingsband18/">Instagram</a> for details on all our upcoming shows.</p>

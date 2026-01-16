@@ -5,16 +5,11 @@ permalink: "/shows/"
 layout: page
 ---
 
-## January 15
-Canteen Brewhouse, 6-9pm <br>
-2381 Aztec Rd NE, Albuquerque, NM
+<p class="lead">Follow us on <a href="https://www.facebook.com/TheOrdinaryThingsband/">Facebook</a> and <a href="https://www.instagram.com/ordinarythingsband18/">Instagram</a> for details on all our upcoming shows.</p>
 
 ---
 
 ## Some Previous Shows
 
+1/15 - Canteen Brewhouse (ABQ, NM)
 12/19 - The Imperial (ABQ, NM)
-
----
-
-<p class="lead">Follow us on <a href="https://www.facebook.com/TheOrdinaryThingsband/">Facebook</a> and <a href="https://www.instagram.com/ordinarythingsband18/">Instagram</a> for details on all our upcoming shows.</p>

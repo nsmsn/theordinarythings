@@ -14,7 +14,7 @@ Tractor Brewing (Nob Hill)<br>
 
 ## Some Previous Shows
 
-1/15 - Canteen Brewhouse (ABQ, NM)
+1/15 - Canteen Brewhouse (ABQ, NM)<br>
 12/19 - The Imperial (ABQ, NM)
 
 ---

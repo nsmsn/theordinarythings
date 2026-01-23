@@ -5,15 +5,9 @@ permalink: "/shows/"
 layout: page
 ---
 
-## Thursday, January 22
-Tractor Brewing (Nob Hill)<br>
-118 Tulane Dr SE, Albuquerque<br>
-7pm
-
----
-
 ## Some Previous Shows
 
+1/22 - Tractor Bewing (ABQ, NM)<br>
 1/15 - Canteen Brewhouse (ABQ, NM)<br>
 12/19 - The Imperial (ABQ, NM)
 

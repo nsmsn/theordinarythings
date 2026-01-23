@@ -7,7 +7,7 @@ layout: page
 
 ## Some Previous Shows
 
-1/22 - Tractor Bewing (ABQ, NM)<br>
+1/22 - Tractor Brewing (ABQ, NM)<br>
 1/15 - Canteen Brewhouse (ABQ, NM)<br>
 12/19 - The Imperial (ABQ, NM)
 

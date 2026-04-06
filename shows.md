@@ -5,6 +5,20 @@ permalink: "/shows/"
 layout: page
 ---
 
+## Saturday, April 18
+6pm - 9pm<br>
+Tractor Brewing (Wells Park)<br>
+9904 Montgomery Blvd NE, Albuquerque 87111
+
+---
+
+## Thursday, April 23
+7pm - 9pm<br>
+Marble Heights Brewery and Taproom <br>
+1800 4th St NW, Albuquerque 87102
+
+---
+
 ## Some Previous Shows
 
 1/22 - Tractor Brewing (ABQ, NM)<br>

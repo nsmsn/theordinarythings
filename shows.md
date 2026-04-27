@@ -7,7 +7,7 @@ layout: page
 
 ## Saturday, May 30
 [Pridezilla](https://www.pridezilla.org/)<br>
-Show starts at 3pm (we're scheduled for 6pm)<br>
+Event starts at 3pm (we're scheduled for 6pm)<br>
 Tractor Brewing (Wells Park)<br>
 1800 4th St NW, Albuquerque 87102
 

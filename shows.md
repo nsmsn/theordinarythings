@@ -6,7 +6,7 @@ layout: page
 ---
 
 ## Saturday, May 9
-7pm <br>
+7pm - 9pm<br>
 Marble Heights Brewery & Tap Room<br>
 9904 Montgomery Blvd NE, Albuquerque, 87111
 

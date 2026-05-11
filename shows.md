@@ -20,11 +20,9 @@ Tractor Brewing (Wells Park)<br>
 
 ## Some Previous Shows
 
+5/9 - Marble Heights Brewery and Taproom (ABQ, NM)<br>
 4/23 - Tractor Brewing (ABQ, NM)<br>
 4/18 - Marble Heights Brewery and Taproom (ABQ, NM)<br>
-1/22 - Tractor Brewing (ABQ, NM)<br>
-1/15 - Canteen Brewhouse (ABQ, NM)<br>
-12/19 - The Imperial (ABQ, NM)
 
 ---
 

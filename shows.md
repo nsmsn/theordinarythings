@@ -5,11 +5,6 @@ permalink: "/shows/"
 layout: page
 ---
 
-## Saturday, May 9
-7pm - 9pm<br>
-Marble Heights Brewery & Tap Room<br>
-9904 Montgomery Blvd NE, Albuquerque, 87111
-
 ## Saturday, May 30
 [Pridezilla](https://www.pridezilla.org/)<br>
 Event starts at 3pm (we're scheduled for 6pm)<br>

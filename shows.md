@@ -5,16 +5,9 @@ permalink: "/shows/"
 layout: page
 ---
 
-## Saturday, May 30
-[Pridezilla](https://www.pridezilla.org/)<br>
-Event starts at 3pm (we're scheduled for 6pm)<br>
-Tractor Brewing (Wells Park)<br>
-1800 4th St NW, Albuquerque 87102
-
----
-
 ## Some Previous Shows
 
+5/30 - Pridezilla at Tractor Brewing (ABQ, NM)<br>
 5/9 - Marble Heights Brewery and Taproom (ABQ, NM)<br>
 4/23 - Tractor Brewing (ABQ, NM)<br>
 4/18 - Marble Heights Brewery and Taproom (ABQ, NM)<br>

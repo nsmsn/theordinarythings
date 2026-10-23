@@ -8,7 +8,7 @@ layout: page
 
 ## Sunday, Oct. 25
 Sister Bar, 7pm<br>
-07 Central Ave. NW, Albuquerque, NM 87102<br>
+407 Central Ave. NW, Albuquerque, NM 87102<br>
 In support of Slasher City
 
 ---

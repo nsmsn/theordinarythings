@@ -1,6 +1,6 @@
 ---
 title: Shows
-date: 2026-04-05 14:03:00 -06:00
+date: 2026-10-23 14:03:00 -06:00
 permalink: "/shows/"
 layout: page
 ---

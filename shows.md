@@ -5,15 +5,8 @@ permalink: "/shows/"
 layout: page
 ---
 
-
-## Sunday, Oct. 25
-Sister Bar, 7pm<br>
-407 Central Ave. NW, Albuquerque, NM 87102<br>
-In support of Slasher City
-
----
-
 ## Some Previous Shows
+10/25 - Sister (ABQ, NM)<br>
 9/20 - New Mexico State Fair<br>
 8/28 - El Vado (ABQ, NM)<br>
 7/30 - Canteen Brewhouse (ABQ, NM)<br>
